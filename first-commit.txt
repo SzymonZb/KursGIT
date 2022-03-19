@@ -1,1 +1,1 @@
-Modyfikacja w dowolny sposób zawartości pliku. Pierwsza taka.
+Modyfikacja w dowolny sposób zawartości pliku pierwszego. Druga taka.
